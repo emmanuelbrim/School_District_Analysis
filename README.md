@@ -15,11 +15,11 @@ Though some level change was witnessed from the analysis (eg. Average math score
 
 _*District summary before replacing math and reading sores*_
 
-![Alt text](https://github.com/emmanuelbrim/Election_Analysis/blob/main/Resources/Total%20Votes.PNG)
+![Alt text](https://github.com/emmanuelbrim/School_District_Analysis/blob/main/Resources/Dsummaryoriginal.PNG)
 
 _*District summary after replacing math and reading scores*_
 
-![Alt text](https://github.com/emmanuelbrim/Election_Analysis/blob/main/Resources/Total%20Votes.PNG)
+![Alt text](https://github.com/emmanuelbrim/School_District_Analysis/blob/main/Resources/Dsummaryfinal.PNG)
 
 
 * **School Summary**
@@ -29,11 +29,11 @@ The data showed that charter schools still dominated the top list of schools in 
 
 _Bottom 5 schools before cleaning data_
 
-![Alt text](https://github.com/emmanuelbrim/Election_Analysis/blob/main/Resources/Total%20Votes%20per%20county.PNG)
+![Alt text](https://github.com/emmanuelbrim/School_District_Analysis/blob/main/Resources/bottomschooloriginal.PNG)
 
 _Bottom 5 schools after cleaning data_
 
-![Alt text](https://github.com/emmanuelbrim/Election_Analysis/blob/main/Resources/Total%20Votes%20per%20county.PNG)
+![Alt text](https://github.com/emmanuelbrim/School_District_Analysis/blob/main/Resources/bottomschoolfinal.PNG)
 
 
 
@@ -48,10 +48,10 @@ _Thomas High Performance before change
 
 _Thomas High Performance after change_
 
-![Alt text](https://github.com/emmanuelbrim/Election_Analysis/blob/main/Resources/F%20string%20county%20votes%20and%20percentage.PNG)
+![Alt text](https://github.com/emmanuelbrim/School_District_Analysis/blob/main/Resources/topschoolsoriginal.PNG)
 
 
-![Alt text](https://github.com/emmanuelbrim/Election_Analysis/blob/main/Resources/terminal%20view.PNG)
+![Alt text](https://github.com/emmanuelbrim/School_District_Analysis/blob/main/Resources/topschoolfinal.PNG)
 
 
 
@@ -62,9 +62,8 @@ The school spending data showed no change
 * * **Scores by school size**
 The school size was not affected by the changes in the data from Thomas High School
 * * **Scores by school type**
-like all others the type summary remained same after the analysis.
+Like all others the type summary remained same after the analysis.
 
-![Alt text](https://github.com/emmanuelbrim/Election_Analysis/blob/main/Resources/wining%20county.PNG)
 
 
 * **Summary**
