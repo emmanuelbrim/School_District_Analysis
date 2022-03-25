@@ -70,6 +70,8 @@ Like all others the type summary remained same after the analysis.
 
 
 
+
+
 * **Summary**
 
 In conclusion, the analysis after the reading and math scores were replaced did indicate a change in the initail statistics but this led to no signifiacnt change in the final information generated. School and distrcit summaries showed same results for all points as well as the performance of Thomas High school.  
