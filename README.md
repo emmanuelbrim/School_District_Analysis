@@ -21,7 +21,7 @@ _*District summary after replacing math and reading scores*_
 
 ![Alt text](https://github.com/emmanuelbrim/Election_Analysis/blob/main/Resources/Total%20Votes.PNG)
 
-Resources/Dsummaryfinal.PNG
+
 * **School Summary**
 To generate a clean School summary invoved selecting all the students of Thomas High School, except 9th grades students and finding the pecentages of their reading and maths scores using the new student total. The school summary dataframe was then updated with the results using the 'loc' method to reflect the changes in the percentage of students from Thomas High School who passed_math, reading and in both subjects. 
 Once again though there was a change in the percentages from Thomas High School the school summary data showed no change. 
