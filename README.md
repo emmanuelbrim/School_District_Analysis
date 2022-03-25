@@ -55,13 +55,13 @@ _Thomas High Performance after change_
 
 
 
- **Scores by grade**:
+* **Scores by grade**:
 The scores by grade remained same though 9th grade scores from Thomas high was replaced with NaN. 
- **Scores by school spending**:
+* **Scores by school spending**:
 The school spending data showed no change
-**Scores by school size**:
+* **Scores by school size**:
 The school size was not affected by the changes in the data from Thomas High School
-**Scores by school type**:
+***Scores by school type**:
 Like all others the type summary remained same after the analysis.
 
 
